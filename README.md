@@ -13,7 +13,7 @@ across departments.
 
  
 ## Dataset used
-- <a href="https://github.com/Ankip007/Power-B-I-write-cancellation-analysis/blob/main/Bangalore_Ride_Data_May2025.xlsx">Dataset</a>
+- <a href="https://github.com/Ankip007/Power-BI-HR-Analytics-Dashboard-Workforce-Insights-January-2025/blob/main/HR_Analytics_March2025.xlsx">Dataset</a>
 
 ## Questions (KPIs)    
 ### SQL Questions:  
